@@ -1,22 +1,22 @@
 ---
 
-## RollTheDice Framework Documentation
+## Web-Dice Framework Documentation
 
 ### Overview
 
-RollTheDice is a lightweight JavaScript framework that allows you to easily integrate a dice animation onto your web page. This framework provides functionality for displaying a dice, rolling it with animation, and executing custom actions based on the rolled number.
+Web-Dice is a lightweight JavaScript framework that allows you to easily integrate a dice animation onto your web page. This framework provides functionality for displaying a dice, rolling it with animation, and executing custom actions based on the rolled number.
 
 ### Installation
 
-To install RollTheDice, use npm:
+To install Web-Dice, use npm:
 
 ```bash
-npm install rollthedice
+npm install web-dice
 ```
 
 ### Usage
 
-To use RollTheDice in your project, simply call the `createDice` function with optional parameters to customize the dice appearance and behavior. Here's an example:
+To use Web-Dice in your project, simply call the `createDice` function with optional parameters to customize the dice appearance and behavior. Here's an example:
 
 ```javascript
 createDice({
@@ -38,15 +38,15 @@ createDice({
 
 ### Compatibility
 
-RollTheDice is compatible with most modern web browsers and can be integrated into various libraries and frameworks.
+Web-Dice is compatible with most modern web browsers and can be integrated into various libraries and frameworks.
 
 ### Support
 
-For support or to report issues, please visit [RollTheDice GitHub Issues](https://github.com/PirvuAlex100/RollTheDice/issues).
+For support or to report issues, please visit [Web-Dice GitHub Issues](https://github.com/PirvuAlex100/Web-Dice/issues).
 
 ### License
 
-RollTheDice is released under the [MIT License](https://opensource.org/license/mit/).
+Web-Dice is released under the [MIT License](https://opensource.org/license/mit/).
 
 ### Feedback and Contributions
 
